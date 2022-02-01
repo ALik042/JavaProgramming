@@ -1,6 +1,4 @@
-package day38_Inheritance.carTask;
-
-import day38_Inheritance.carTask.Car;
+package day32_Constructor.day38_Inheritance.carTask;
 
 public class BMW extends Car {
     public BMW(String model, int year, double price, String color, int miles) {

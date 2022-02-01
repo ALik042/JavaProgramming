@@ -23,6 +23,8 @@ public class GradeReport {
         }else{result="Invalid score";}
 
         System.out.println(result);
+
+        grade.close();
         
 
 

@@ -10,8 +10,7 @@ public class NumbersScanner {
 
         int [] store = new int[10];
 
-
-
+scan.close();
 
     }
 }
